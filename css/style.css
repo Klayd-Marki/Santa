@@ -143,21 +143,21 @@ h1{
     background-color: #fff;
     text-align: center;
 }
-.sm {
-    margin: 2rem 0;
-}
 
-.sm a {
+
+.social a{
+    margin: 2rem 0;
     display: inline-flex;
     justify-content: center;
     align-items: center;
     width: 2.1rem;
     height: 2.1rem;
-    font-size: 1.1rem;
+    font-size: 2.0rem;
     transform: 0.4s;
 }
 
 
-.sm a:hover {
-    border-radius: 50%;
+.social a:hover {
+    background-color: #A31123;
+    border-radius: 105%;
 }
